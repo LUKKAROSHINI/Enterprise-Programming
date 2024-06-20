@@ -1,0 +1,9 @@
+<html>
+<body>
+<h2>Welcome to JSP Home page</h2>
+<form action "hello.jsp">
+<input type = "submit" value="click-me">
+
+</form>
+</body>
+</html>

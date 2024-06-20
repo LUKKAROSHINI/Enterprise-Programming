@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>Welcome to JSP Home page</h1>
+<form action="hello.jsp">
+
+//<input type="submit" value="google.com">
+<input type="submit" value="youtube.com">
+
+</form>
+</body>
+</html>
