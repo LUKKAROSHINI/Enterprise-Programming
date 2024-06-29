@@ -16,9 +16,6 @@
   <path value="C:/Users/lukka/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.14/jboss-jsf-api_2.2_spec-2.2.14.jar"/>
  </paths>
  <validation>
-  <core validator-id="jsf-verification"/>
-  <core validator-id="jboss.cdi.core"/>
-  <core validator-id="jboss.jsf.core"/>
   <el>
    <linked-el length="11" name="%0" offset="388" path="%1"/>
    <linked-el length="11" name="%0" offset="457" path="%1"/>

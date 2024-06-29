@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\lukka\workspace\jsfffff"/>
+			<item value="C:\Users\lukka\workspace\JsfDemo\src\main\java\JsfDemo\NumberBean.java"/>
+			<item value="C:\Users\lukka\workspace\ejbcalc\src\main\java\EjbPackage\Calculator.java"/>
 			<item value="C:\Users\lukka\workspace\ServletDemo\src\main\java\ServletPackage\ServletInterfaceDemo.java"/>
 			<item value="C:\Users\lukka\workspace\ServletDemo\src\main\webapp\WEB-INF\web.xml"/>
 			<item value="C:\Users\lukka\workspace\db\pom.xml"/>
@@ -28,10 +31,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="RestService.My_RestService"/>
+			<item value="exam.stockapp"/>
+			<item value="exam.Stockapp"/>
 		</list>
 		<list key="groupId">
+			<item value="RestService"/>
+			<item value="exam"/>
 		</list>
 		<list key="artifactId">
+			<item value="My_RestService"/>
+			<item value="stockapp"/>
+			<item value="Stockapp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,12 +58,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="ejb"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="ejbcalc"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -67,6 +76,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

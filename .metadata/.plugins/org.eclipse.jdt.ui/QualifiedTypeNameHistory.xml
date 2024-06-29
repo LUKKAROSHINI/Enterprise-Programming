@@ -9,4 +9,16 @@
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
     <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
     <fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="javax.ejb.EJB"/>
+    <fullyQualifiedTypeName name="EjbPackage.CalculatorRemote"/>
+    <fullyQualifiedTypeName name="com.example.indianculture.entities.Festival"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Application"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.ApplicationPath"/>
 </qualifiedTypeNameHistroy>
